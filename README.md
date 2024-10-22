@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @LeherDangal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on some projects.
-- 📫 Reach me through LinkedIn.
+- 👋 "Hi, I'm Leher Dangal, a passionate Data Science student, currently in my second year. I'm working on various projects in data science, digital marketing, and machine learning."
 
